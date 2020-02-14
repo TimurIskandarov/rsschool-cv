@@ -12,4 +12,12 @@
 	~ *packages:* shapely, svgwrite, PIL, opencv
 5. Code:  
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://github.com/TimurIskandarov
-          
+6. Experience:  
+   - implementation of the Hightower algorithm for finding the path  
+   - application *Calculator/Matrix-Calculator* for Windows on MFC  
+   - optimization of log cutting  
+   - recognition of documents  
+7. Education:  
+   - automation of nanoelectronics product design (bachelor)
+   - information security (special secondary)
+8. English - elementary
