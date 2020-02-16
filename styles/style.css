@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,html {
+    height: 100%;
+} 
+
+.main {
+    margin: 0 auto;
+    max-width: 1024px;
+    height: 100%;
+    overflow: hidden;
+}
+
+.experience {
+    height: 100%;
+    background: linear-gradient(0deg, rgba(117,34,195,1) 20%, rgba(230,45,253,1) 46%);
+}
+
+.aboutMe {
+    text-align: center;
+    width: 70%;
+    height: 100%;
+    right: 80px;
+    border-radius: 80px;    
+    position: relative;
+    background-color: white;
+    /* border: 2px solid ; */
+}
+
+.name {
+    /* font-family: 'Akronim', cursive; */
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 40px;
+}
+.foto {
+    margin-top: 10px;
+    border-radius: 10%;
+    width: 120px;
+    height: 140px;
+    box-shadow: 10px 5px 5px black
+
+}
+.foto_container {
+    /* background: url('/assets/avatar.jpg') center no-repeat; */
+    /* background-color: orange;     */
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    right: 15%;
+    border-radius: 50%;
+}
